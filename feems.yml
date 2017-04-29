@@ -1,0 +1,4 @@
+﻿
+eureka:
+  client:
+    shouldFetchRegistry: false
